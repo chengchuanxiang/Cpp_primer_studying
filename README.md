@@ -2,13 +2,7 @@
 
 简介
 ----
-c++Primer 第5版 各章读书笔记，答案与思维导图
-
-环境
-----
-- system:ubuntu 18.04 
-- IDE vim 
-- compiler:g++
+c++Primer 第5版 各章思维导图
 
 目录
 ----
